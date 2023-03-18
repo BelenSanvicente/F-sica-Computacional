@@ -4,3 +4,4 @@ Algunos de los temas son:
 - Movimiento Planetario.
 - Derivadaas e integrales numéricas.
 - Funciones.
+- Oscilador armónico.
